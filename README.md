@@ -25,7 +25,7 @@ Project created by <a href="https://github.com/shahid-cr">shahid-cr</a> to make 
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shahid-cr/Lily-Bae) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/Julie-Mwol)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@farhan-dqz/Julie-Mwol)
   
 ### The Hard Method
 ```js
@@ -96,4 +96,3 @@ This project is protected by `GNU General Public Licence v3.0` license.
 
 ### Disclaimer
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
-
