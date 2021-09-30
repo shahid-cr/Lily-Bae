@@ -57,8 +57,8 @@ $ node Lily.js
 <p align="center">
 <a href="https://github.com/shahid-cr/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/shahid-cr?color=blue&style=flat-square"></a>
-<a href="https://github.com/shahid-cr/LilyBae/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/shahid-cr/LilyBae?color=blue&style=flat-square"></a>
-<a href="https://github.com/shahid-cr/LilyBae/network/members"><img title="Forks" src="https://img.shields.io/github/forks/shahid-cr/LilyBae?color=blue&style=flat-square"></a>
+<a href="https://github.com/shahid-cr/LilyBae/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/shahid-cr/Lily-Bae?color=blue&style=flat-square"></a>
+<a href="https://github.com/shahid-cr/LilyBae/network/members"><img title="Forks" src="https://img.shields.io/github/forks/shahid-cr/Lily-Bae?color=blue&style=flat-square"></a>
 <a href="https://github.com/shahid-cr/Lily-Bae/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/shahid-cr/Lily-Bae?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
