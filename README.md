@@ -32,7 +32,7 @@ Project created by <a href="https://github.com/shahid-cr">shahid-cr</a> to make 
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/shahid-cr/Lily-Bae
+$ git clone https://github.com/farhan-dqz/Julie-Mwol
 $ cd Lily-Bae
 $ npm install @adiwajshing/baileys
 $ npm install chalk
